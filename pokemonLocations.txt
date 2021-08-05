@@ -1,0 +1,151 @@
+bulbasaur,grass,South America
+ivysaur,grass,Asia,Antarctica
+venusaur,grass,Africa,South America
+charmander,fire,North America,Oceania
+charmeleon,fire,South America
+charizard,fire,Oceania
+squirtle,water,Oceania
+wartortle,water,Antarctica
+blastoise,water,Africa,South America
+caterpie,bug,Oceania
+metapod,bug,Asia,Africa,Europe,South America
+butterfree,bug,Antarctica,Oceania,South America
+weedle,bug,Europe,South America,Asia
+kakuna,bug,South America,Oceania,Africa,North America
+beedrill,bug,North America,Asia,Oceania,Antarctica
+pidgey,flying,Antarctica,Europe,Oceania,South America
+pidgeotto,flying,Europe,Asia
+pidgeot,flying,Europe,Oceania,Asia
+rattata,normal,South America,Europe,Antarctica
+raticate,normal,Oceania
+spearow,flying,South America,North America,Antarctica,Europe
+fearow,flying,Asia,Antarctica
+ekans,poison,Europe,Oceania,North America,Asia
+arbok,poison,South America
+pikachu,electric,North America,Oceania,Africa
+raichu,electric,North America
+sandshrew,ground,Asia,North America,South America
+sandslash,ground,Asia,South America,North America
+nidoranfemale,poison,Asia
+nidorina,poison,Africa,Europe,South America,Antarctica
+nidoqueen,poison,Africa,South America
+nidoranmale,poison,Asia,Africa,South America,North America
+nidorino,poison,Antarctica
+nidoking,poison,Africa,South America,Antarctica,Oceania
+clefairy,fairy,Asia
+clefable,fairy,Europe,North America
+vulpix,fire,North America,Antarctica,Oceania
+ninetales,fire,North America,Asia
+jigglypuff,fairy,Asia,Oceania,Europe,Africa
+wigglytuff,fairy,North America,Asia
+zubat,flying,Africa,Europe,Oceania,Asia
+golbat,flying,South America,Antarctica
+oddish,grass,Europe,Asia,North America
+gloom,grass,Oceania,Europe,Antarctica,North America
+vileplume,grass,Oceania,Antarctica
+paras,bug,Oceania,Antarctica,South America,Europe
+parasect,bug,Africa,South America,North America
+venonat,poison,North America,South America
+venomoth,poison,Africa,Europe,Antarctica
+diglett,ground,Europe,South America,Asia,Oceania
+dugtrio,ground,North America,Europe,South America
+meowth,normal,Africa
+persian,normal,North America,Oceania,Africa,Antarctica
+psyduck,water,Africa,North America
+golduck,water,Antarctica,South America,Europe,Asia
+mankey,fighting,North America,Oceania,South America
+primeape,fighting,Oceania
+growlithe,fire,Antarctica,North America
+arcanine,fire,Europe
+poliwag,water,Europe,Africa,Antarctica,Oceania
+poliwhirl,water,Europe
+poliwrath,water,Africa,Antarctica,Asia
+abra,psychic,North America
+kadabra,psychic,Oceania,Europe,Antarctica,South America
+alakazam,psychic,Africa
+machop,fighting,Africa
+machoke,fighting,North America,South America,Antarctica,Africa
+machamp,fighting,Asia,North America,Oceania,Africa
+bellsprout,grass,Antarctica,North America
+weepinbell,grass,Asia,South America
+victreebel,grass,South America
+tentacool,water,Europe,Asia,Oceania,North America
+tentacruel,water,Africa,Europe,Oceania,North America
+geodude,rock,Oceania,Asia,South America,North America
+graveler,rock,North America,Antarctica
+golem,rock,Asia,Africa,North America,Antarctica
+ponyta,fire,Oceania,Europe
+rapidash,fire,Europe
+slowpoke,psychic,Europe
+slowbro,psychic,Antarctica,Africa
+magnemite,electric,Europe,Antarctica,South America,Asia
+magneton,electric,Antarctica
+farfetchd,flying,Asia,Antarctica,Oceania,North America
+doduo,flying,North America
+dodrio,flying,Oceania,Africa,Antarctica
+seel,water,Oceania,South America,North America
+dewgong,water,Antarctica,North America,Oceania,South America
+grimer,poison,Asia,Oceania,North America
+muk,poison,Oceania,Africa,Antarctica,South America
+shellder,water,South America,Europe,Oceania
+cloyster,water,Antarctica,Asia
+gastly,ghost,North America,Antarctica,Africa,Oceania
+haunter,ghost,North America
+gengar,ghost,Oceania,Asia,Africa
+onix,rock,North America,Africa,Oceania,South America
+drowzee,psychic,Oceania,Africa,Europe,Asia
+hypno,psychic,North America,Europe,South America
+krabby,water,South America
+kingler,water,Asia
+voltorb,electric,Oceania,Europe,Asia,South America
+electrode,electric,South America,North America,Africa,Asia
+exeggcute,grass,Oceania
+exeggutor,grass,Asia,Oceania,Antarctica,Europe
+cubone,ground,Asia,Africa,Oceania,Antarctica
+marowak,ground,North America,Africa,South America
+hitmonlee,fighting,North America,Africa
+hitmonchan,fighting,Oceania
+lickitung,normal,Antarctica,South America,North America
+koffing,poison,Antarctica
+weezing,poison,South America,Oceania,North America,Asia
+rhyhorn,ground,Europe
+rhydon,ground,North America,Africa,Oceania,Antarctica
+chansey,normal,Antarctica,Europe,North America
+tangela,grass,Africa,Europe,Antarctica
+kangaskhan,normal,Oceania,Asia,Antarctica,Africa
+horsea,water,North America,Antarctica,South America
+seadra,water,Antarctica,South America,North America
+goldeen,water,Asia,Antarctica,Europe,North America
+seaking,water,Asia
+staryu,water,Antarctica,Oceania
+starmie,water,North America,South America
+mr.mime,psychic,Oceania
+scyther,bug,Oceania
+jynx,psychic,South America
+electabuzz,electric,Europe,South America,Oceania
+magmar,fire,Antarctica,Africa
+pinsir,bug,Asia,Europe,North America
+tauros,normal,Oceania,Europe,South America,Africa
+magikarp,water,Africa,Europe,Oceania,North America
+gyarados,water,South America,Africa
+lapras,water,Africa
+ditto,normal,Europe,Oceania,North America,Antarctica
+eevee,normal,Asia
+vaporeon,water,Africa,Oceania
+jolteon,electric,Europe,South America
+flareon,fire,South America,Antarctica
+porygon,normal,Europe
+omanyte,rock,Antarctica,Africa
+omastar,rock,Europe,North America
+kabuto,rock,Oceania
+kabutops,rock,Africa
+aerodactyl,flying,Oceania,Africa,South America,North America
+snorlax,normal,Antarctica
+articuno,ice,North America
+zapdos,electric,North America,Europe
+moltres,fire,Europe,Antarctica
+dratini,dragon,Europe,South America
+dragonair,dragon,Africa,North America,Antarctica
+dragonite,dragon,Oceania
+mewtwo,psychic,Antarctica
+mew,psychic,Europe,Oceania
