@@ -21,5 +21,21 @@ The problem is divided into 5 diferent "questions", but in the end, the work fro
 - Part 4: Count how many of each pokemon type occur within a given list of pokemon names.
 - Part 5: For each continent, display the pokemon type counts.
 
+## How to use
+Here are the steps for how to open, use and utilize the program:
+
+First, download all of the files listed above;
+Put all the files in one folder;
+Open the file Projec_poke.py;
+The program will open a command console in which it will ask you to name a .txt file located in the same folder;
+Finally, the program will output a result.
+
+*The program can use other .txt file that are in the same format as provided files.
+
+The results should appear like this:
+
+![image](https://user-images.githubusercontent.com/86201781/128731404-e184473c-2050-405d-b7ea-49540a83aad9.png)
+
+
 
 
