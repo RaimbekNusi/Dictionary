@@ -12,6 +12,14 @@ Suppose we had a dictionary called friends containing key-value pairs where the 
 
 Pokemon are fantastic creatures that people can catch and train. Pokemon are classified into different "types", such as grass, fire or electric. In addition, they can be found in various locations all over the world. This program is build to help organize information about where to go catch the different pokemon. This problem is divided into 5 diFFerent "questions", but in the end, all of the questions will be combined to complete the overall program. The first four questions will ask to define a function that will perform a specific task.
 
+## Problem details
+
+The problem is divided into 5 diferent "questions", but in the end, the work from all of the questions will be combined to complete the overall program. The first four questions will each ask to define a function that will perform a specific task. The following is a brief overview of how the next five questions will fit together:
+• Part 1: Read data about the pokemon from a text file and organize it as a database.
+• Part 2: Build a list of all the unique continents where one can find pokemon.
+• Part 3: Build a list of all the pokemon that can be found on a particular continent.
+• Part 4: Count how many of each pokemon type occur within a given list of pokemon names.
+• Part 5: For each continent, display the pokemon type counts.
 
 
 
