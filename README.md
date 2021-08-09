@@ -1,4 +1,4 @@
-# Dictionary
+# Dictionary (ENGLISH)
 
 ## Description
 
@@ -34,7 +34,7 @@ The results should appear like this:
 
 ![image](https://user-images.githubusercontent.com/86201781/128731404-e184473c-2050-405d-b7ea-49540a83aad9.png)
 
-# Словари
+# Словари (РУССКИЙ)
 
 ## Описание
 
