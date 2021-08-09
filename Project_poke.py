@@ -1,4 +1,3 @@
-#Raimbek Nussipkhozhin, NFU892, 11313819, Jeffrey Long
 name = []
 names = []
 type = []
